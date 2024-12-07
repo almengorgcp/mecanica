@@ -3,11 +3,11 @@ import pandas as pd
 
 data = {
     "Motor": ["Motor 1", "Motor 2", "Motor 3", "Motor 4", "Motor 5"],
-    "Potencia (kW)": [12, 65, 185, 400, 250],
+    "Potencia (kW)": [15, 175, 75, 450, 375],
     "Velocidad RMS (mm/s)": [4.3, 1.05, 33, 8.5, 0.75],
     "Velocidad Pico (in/s)": [2.5, 0.05, 0.525, 0.25, 0.75],
-    "Desplazamiento (P-P)": [2.5, 0.05, 0.525, 0.25, 0.75],
-    "Frecuencia (RPM)": [3600, 5750, 10500, 4500, 7600],
+    "Desplazamiento (P-P)": [3800, 6000, 11000, 5000, 7500],
+    "Frecuencia (RPM)": [3800, 6000, 11000, 5000, 7500],
 }
 
 motors_df = pd.DataFrame(data)

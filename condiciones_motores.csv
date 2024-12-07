@@ -1,6 +1,6 @@
 Motor,Potencia (kW),Velocidad RMS (mm/s),Velocidad Pico (in/s),Desplazamiento (P-P),Frecuencia (RPM),Condición
-Motor 1,12,4.3,2.5,2.5,3600,Unsatisfactory
-Motor 2,65,1.05,0.05,0.05,5750,Satisfactory
-Motor 3,185,33.0,0.525,0.525,10500,Unacceptable
-Motor 4,400,8.5,0.25,0.25,4500,Unacceptable
-Motor 5,250,0.75,0.75,0.75,7600,Satisfactory
+Motor 1,15,4.3,2.5,3800,3800,Unsatisfactory
+Motor 2,175,1.05,0.05,6000,6000,Satisfactory
+Motor 3,75,33.0,0.525,11000,11000,Unacceptable
+Motor 4,450,8.5,0.25,5000,5000,Unacceptable
+Motor 5,375,0.75,0.75,7500,7500,Satisfactory
